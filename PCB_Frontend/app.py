@@ -21,10 +21,10 @@ st.set_page_config(
 #url = os.getenv('API_URL')
 
 ## Selecionar url de google cada uno (Diego, Mateo, Matias)
-url = ' http://127.0.0.1:8000' #MATIAS: Imagen sin conf thres customizable
+#url = ' http://127.0.0.1:8000' #MATIAS: Imagen sin conf thres customizable
 #url = 'https://docker-test-pcb-cfiqqvqtva-uw.a.run.app'  #MATIAS con conf thres
 #url = ''   #MATEO
-#url = ''   #DIEGO
+url = 'https://docker-test-pcb-cqcnxwfroa-uc.a.run.app'   #DIEGO
 
 # Define the local CSS file location or the URL to the image
 header_image = "https://lirp.cdn-website.com/a0bf26f7/dms3rep/multi/opt/shutterstock_1588316845-1920w.jpg"
